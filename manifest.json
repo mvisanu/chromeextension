@@ -1,0 +1,11 @@
+{
+  "name": "Upcoming Niceville Concerts",
+  "version": "1.0.0",
+  "description": "This is an extension to look up concerts coming to Niceville",
+  "manifest_version": 3,
+  "author": "Visanu Mongsaithong",
+  "action": {
+    "default_popup": "index.html",
+    "defualt_title": "Upcoming Niceville Concerts"
+  }
+}
